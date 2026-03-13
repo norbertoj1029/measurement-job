@@ -6,8 +6,6 @@ frontend/.output/
 frontend/.data/
 
 # Env and secrets
-.env
-.env.*
 !.env.example
 */.env copy
 *.env.copy
@@ -22,3 +20,4 @@ Thumbs.db
 .vscode/
 *.swp
 *.swo
+config.bat
